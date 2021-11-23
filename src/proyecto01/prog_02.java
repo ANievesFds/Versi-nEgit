@@ -8,7 +8,7 @@ public class prog_02 {
 		double volumen;
 		Scanner leerradio = new Scanner(System.in);
 		int radio; 
-		System.out.println("Introduce el radio de la esfera");
+		System.out.println("Introduce el radio de la esfera"); 
 		}
 
 	}
